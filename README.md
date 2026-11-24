@@ -218,6 +218,8 @@ Create a more efficient supply chain.
 
 10. Conclusion
 FARM DIRECT is a proposed digital marketplace that connects farmers directly with consumers and bulk buyers.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fe02ceff-1801-41e2-9677-0dc9f6014fa5" />
+
 
 By using technology, AI-based demand prediction and smart delivery management, we aim to reduce unnecessary intermediaries.
 
